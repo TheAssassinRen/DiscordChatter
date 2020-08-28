@@ -3,6 +3,7 @@
 
 name: Hosting
 
+job1:
 - name: Setup Node.js environment
   uses: actions/setup-node@v1.4.3
 
